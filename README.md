@@ -1,8 +1,9 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Socket-CHAT+ v1.0.0
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Aplicacion de CHAT+ usando Socket y nodejs v1.0.0 las proximas actualizaciones
+se veran reflejado en enviar imagenes y obtener stickers y emojis.
 
 ```
 npm install
