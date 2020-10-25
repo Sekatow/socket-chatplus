@@ -18,6 +18,7 @@ io.on('connection', (client) => {
 
         }
 
+
         client.join(data.sala);
 
 

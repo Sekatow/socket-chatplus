@@ -8,6 +8,7 @@ var sala = params.get("sala");
 //Referencias de jQuery
 
 var divUsuarios = $("#divUsuarios");
+var divUsuarios2 = $("#divUsuarios2");
 var formEnviar = $("#formEnviar");
 var txtMensaje = $("#txtMensaje");
 var divChatbox = $("#divChatbox");
@@ -35,6 +36,7 @@ function renderizarUsers(personas) {
     }
 
     divUsuarios.html(html);
+    divUsuarios2.html(html);
 
 }
 

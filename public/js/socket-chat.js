@@ -7,6 +7,7 @@ if (!params.has('nombre') || !params.has('sala')) {
     throw new Error('El nombre y sala son necesarios');
 }
 
+
 var usuario = {
     nombre: params.get('nombre'),
     sala: params.get('sala')
